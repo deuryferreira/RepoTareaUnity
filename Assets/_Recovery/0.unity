@@ -271,7 +271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CubeSpawner
   CuboPrefab: {fileID: 389644272}
   ListaDeCubos: []
-  FactorDeEscala: 0.94
+  FactorDeEscala: 0.985
   NumeroDeCubos: 0
 --- !u!1 &389644272 stripped
 GameObject:
