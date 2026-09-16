@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\CursoUnity\\RepoTarea\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CursoUnity\\RepoTarea\\Assets\\Modulo 8\\EjerciciosVariablesMod8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Modulo 8\\EjerciciosVariablesMod8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CursoUnity\\RepoTarea\\Assets\\Modulo 9\\EjerciciosDeCiclosYArreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Modulo 9\\EjerciciosDeCiclosYArreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\cursounity\\repotarea\\assets\\modulo 8\\ejerciciosvariablesmod8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\modulo 8\\ejerciciosvariablesmod8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EjerciciosVariablesMod8.cs",
               "DocumentMoniker": "C:\\CursoUnity\\RepoTarea\\Assets\\Modulo 8\\EjerciciosVariablesMod8.cs",
               "RelativeDocumentMoniker": "Assets\\Modulo 8\\EjerciciosVariablesMod8.cs",
@@ -27,6 +31,19 @@
               "ViewState": "AgIAAFkAAAAAAAAAAAAAwG8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T15:06:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EjerciciosDeCiclosYArreglos.cs",
+              "DocumentMoniker": "C:\\CursoUnity\\RepoTarea\\Assets\\Modulo 9\\EjerciciosDeCiclosYArreglos.cs",
+              "RelativeDocumentMoniker": "Assets\\Modulo 9\\EjerciciosDeCiclosYArreglos.cs",
+              "ToolTip": "C:\\CursoUnity\\RepoTarea\\Assets\\Modulo 9\\EjerciciosDeCiclosYArreglos.cs",
+              "RelativeToolTip": "Assets\\Modulo 9\\EjerciciosDeCiclosYArreglos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T15:56:03.25Z",
               "EditorCaption": ""
             }
           ]
